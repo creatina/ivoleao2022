@@ -1,12 +1,12 @@
+body{
+    background: #CCCCCC;
+}
+
 h1 {
     text-align:center; 
-    background: #CCCCCC;
+    background: #ee2828;
 }
 
 p{
     text-align: center;
-   
-}
-body{
-    background: #CCCCCC;
 }
