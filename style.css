@@ -10,7 +10,7 @@ body{
     padding: 30px;
 }
 
-h1 {
+.titulo-centralizado {
     text-align:center; 
     background: #a5a4a4;
 }
@@ -37,7 +37,7 @@ em strong{
 }
 
 h2{
-    text-align:center;
+    
 }
 ul{
     display:inline-block;
