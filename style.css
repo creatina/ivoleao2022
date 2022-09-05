@@ -19,3 +19,9 @@ p{
 em strong{
     color:rgb(138, 44, 44);
 }
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color: #ffffff;
+}
