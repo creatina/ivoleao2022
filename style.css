@@ -28,7 +28,7 @@ p{
 }
 
 em strong{
-    color:rgb(138, 44, 44);
+    color:rgb(0, 0, 0);
 }
 
 .itens{
@@ -36,7 +36,7 @@ em strong{
 }
 
 .beneficios{
-    background-color: #a5a4a4;
+    background-color: #795c34;
     padding: 20px;
 }
 
