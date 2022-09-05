@@ -2,11 +2,12 @@ body{
     background: #ffffff;
 }
 #brama{
-    
+
+    -webkit-column-width: 100%;
 }
 h1 {
     text-align:center; 
-    background: #af3939;
+    background: #ffffff;
 }
 
 p{
