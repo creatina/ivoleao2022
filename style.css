@@ -49,6 +49,11 @@ ul{
     width: 20%;
     margin-right:15%;
 }
-.ilustraçãoimg{
+
+.ilustraçãoimg {
     width: 50%;
+}
+
+ul li {
+    font-size: 35px;
 }
