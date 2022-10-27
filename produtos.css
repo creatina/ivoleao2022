@@ -5,11 +5,11 @@
 
 header{
     background: #bbbbbb;
-    margin: 0 0 0 50px;
 }
 
 nav li{
     display: inline;
+    margin:  0 0 0 20px;
 }
 nav a{
     text-transform: uppercase;
