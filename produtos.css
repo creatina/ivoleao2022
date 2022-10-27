@@ -5,6 +5,7 @@
 
 header{
     background: #bbbbbb;
+    margin: 0 0 0 15px;
 }
 
 nav li{
@@ -15,4 +16,5 @@ nav a{
     color: black;
     font-weight: bold;
     font-size: 20px;
+    text-decoration: none;
 }
