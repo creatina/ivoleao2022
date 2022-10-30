@@ -4,8 +4,8 @@
 }
 
 .logo2{
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
 }
 
 header{
@@ -45,7 +45,7 @@ nav a:hover {
 
 .produtos {
     width: 1000px;
-    margin: auto auto;
+    margin: 0 auto;
 }
 
 .produtos li {
