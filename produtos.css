@@ -4,7 +4,7 @@
 }
 
 header{
-    background: #bbbbbb;
+    background: antiquewhite;
     padding: 20px 0;
 }
 
@@ -24,10 +24,16 @@ nav li{
     display: inline;
     margin:  0 0 0 15px;
 }
+
 nav a{
     text-transform: uppercase;
     color: black;
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
+}
+
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
 }
