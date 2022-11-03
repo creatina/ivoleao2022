@@ -39,7 +39,7 @@ nav a:hover {
     width: 100%;
 }
 .principal{
-    background: #795c34;
+    background: antiquewhite;
     padding: 30px;
 }
 
@@ -49,7 +49,7 @@ nav a:hover {
 
 .titulo-centralizado {
     text-align:center; 
-    background: #795c34;
+    background: antiquewhite;
 }
 
 p{
@@ -69,7 +69,7 @@ em strong{
 }
 
 .beneficios{
-    background-color: #795c34;
+    background-color: antiquewhite;
     padding: 20px;
 }
 
