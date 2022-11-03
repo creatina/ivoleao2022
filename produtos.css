@@ -55,11 +55,11 @@ nav a:hover {
     width: 30%;
     vertical-align: top;
     background-color: antiquewhite ;
-    margin: 0% 1.5%;
+    margin: 1.5% 1.5%;
 }
 
 .produtos h2{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 
