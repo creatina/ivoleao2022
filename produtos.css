@@ -60,7 +60,9 @@ nav a:hover {
     border: #000000 2px solid;
     border-radius: 10px;
 }
-
+.produtos li:hover{
+    border-color: rgb(255, 136, 0)
+}
 .produtos h2{
     font-size: 25px;
     font-weight: bold;
