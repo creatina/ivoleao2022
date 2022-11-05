@@ -88,3 +88,8 @@ nav a:hover {
 .produto-descricao{
     font-size: 18px;
 }
+
+footer{
+    text-align: center;
+    background: url('bg.jpeg');
+}
