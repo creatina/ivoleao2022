@@ -95,7 +95,7 @@ nav a:hover {
 }
 
 footer{
-    text-decoration-color: aliceblue;
     text-align: center;
     background: url('bg.jpeg');
+    padding: 40px 0;
 }
