@@ -65,11 +65,11 @@ nav a:hover {
     border-color: rgb(255, 136, 0);
 }
 
-produtos li:active{
+.produtos li:active{
     border-color: chartreuse;
 }
 
-produtos li:hover h2{
+.produtos li:hover h2{
     font-size: 30px;
 }
 
